@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Hey! MY NAME IS SASHA AND I LOVE MOVING BEUTIFUL STUFF!
-    subtitle: I
+    subtitle: IIIIIIIII
     styles:
       self:
         height: auto
